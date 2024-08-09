@@ -565,7 +565,7 @@ html {
         justify-content: center;
         cursor: pointer;
         transition: 0.3s ease;
-        margin-left: 8rem;
+        /*margin-left: 8rem;*/
         margin-top: 2rem;
     }
 
@@ -610,7 +610,7 @@ html {
         justify-content: center;
         align-items: center;
         position: relative;
-        margin-left: 9rem;
+        /*margin-left: 9rem;*/
     }
 
     .components3 .icon {
@@ -632,7 +632,7 @@ html {
         cursor: pointer;
         color: var(--greyDark);
         transition: all 0.5s ease;
-        margin-left: 28rem;
+        margin-left: 20rem;
         margin-top: -3rem;
     }
     .components3 .icon__menu:active {
