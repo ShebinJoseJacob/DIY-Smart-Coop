@@ -335,7 +335,7 @@ html {
         justify-content: center;
         cursor: pointer;
         transition: 0.3s ease;
-        margin-left: 8rem;
+        margin-left: 2rem;
     }
     .btn2 {
         width: 20rem;
@@ -391,7 +391,7 @@ html {
         justify-content: center;
         align-items: center;
         position: relative;
-        margin-left: 8rem;
+        margin-left: 2.5rem;
     }
     .clock .hand {
         position: absolute;
@@ -497,7 +497,7 @@ html {
         cursor: pointer;
         color: var(--greyDark);
         transition: all 0.5s ease;
-        margin-right: -5rem;
+        margin-left: -2rem;
         margin-top: -26rem;
     }
     .icon__menu:active {
@@ -565,7 +565,6 @@ html {
         justify-content: center;
         cursor: pointer;
         transition: 0.3s ease;
-        /*margin-left: 8rem;*/
         margin-top: 2rem;
     }
 
@@ -610,7 +609,7 @@ html {
         justify-content: center;
         align-items: center;
         position: relative;
-        /*margin-left: 9rem;*/
+        margin-left: 3.5rem;
     }
 
     .components3 .icon {
@@ -632,7 +631,7 @@ html {
         cursor: pointer;
         color: var(--greyDark);
         transition: all 0.5s ease;
-        margin-left: 20rem;
+        margin-left: 21.5rem;
         margin-top: -3rem;
     }
     .components3 .icon__menu:active {
