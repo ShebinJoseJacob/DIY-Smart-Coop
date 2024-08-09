@@ -75,7 +75,7 @@ function toggleDoorStatus() {
     // Get the current status
     doorRef.once('value').then(function(snapshot) {
         var currentStatus = snapshot.val();
-        var newStatus = currentStatus === 'Open' ? 'Open' : 'Close';
+        var newStatus = currentStatus === 'Open' ? 'Close' : 'Open';
         $('#doorStatus').text(doorStatus+' Door');
         
         doorRef.set(newStatus, function(error) {
